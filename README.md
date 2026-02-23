@@ -109,4 +109,4 @@ NumPy,
 Scikit-learn,
 Matplotlib / Seaborn,
 Power BI / Tableau,
-Jupyter Notebook
+Jupyter Notebook or Google Colab(AI)
